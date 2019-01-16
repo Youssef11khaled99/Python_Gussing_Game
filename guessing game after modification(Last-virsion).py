@@ -2,14 +2,14 @@ R=""
 while (R!="no"):
     import random
     trials = 0
-    WORDS = ("lion", "python", "youssef")
+    WORDS = ("lion", "python", "youssef", "elephant", "ruby", "roshdy")
     hints = ("animal", "programming language", "human")
     word = random.choice(WORDS) 
     length = len(word)
     print("The word is " + str(len(word)) + " letters long. Guess a letter! ")
     for i in range(0, len(WORDS)):
         if word==WORDS[i]:
-            print("Hint:the word is "+ hints[i] +" name!! ")
+            print("Hint:the word is "+ hints[i%3] +" name!! ")
             
     
     indecator = 0
