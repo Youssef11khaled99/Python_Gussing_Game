@@ -9,7 +9,7 @@ how many characters are in the word and in the right place -> 6    how many char
 
 <br /><br /><br />
 
-************************The game will look like***************************<br />
+##The game will look like<br />
     The word is 8 letters long. Guess a letter! <br />
     Hint:the word is animal name!! <br />
     Please enter your guess: elehpant<br />
@@ -22,7 +22,7 @@ how many characters are in the word and in the right place -> 6    how many char
     .<br />
     .<br />
     .<br />
-    **********************At the end of the game if you get the word******************<br />
+  ####At the end of the game if you get the word<br />
     congratulations you guessed right after 2 trials<br />
     Thanks for playing!<br />
     -> If you want to quit enter no:  <br />
