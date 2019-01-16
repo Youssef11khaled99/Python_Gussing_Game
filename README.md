@@ -4,7 +4,21 @@
 The word is 8 letters long. Guess a letter! 
 Hint:the word is animal name!! 
 Please enter your guess: elehpant
+
 how many characters are in the word and in the right place -> 6    how many characters are in the word and in the wrong place -> 2
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ************************The game will look like***************************
     The word is 8 letters long. Guess a letter! 
